@@ -1,4 +1,8 @@
-Sure, here's a blog post focused on highlighting the features of the "PlantUML SVG for Confluence" app by Grovr, written in Markdown syntax with images. I'll assume the reader is already familiar with PlantUML:
+---
+title: "PlantUML SVG for Confluence"
+date: 2024-06-08
+---
+
 
 # Taking PlantUML Integration in Confluence to the Next Level
 
