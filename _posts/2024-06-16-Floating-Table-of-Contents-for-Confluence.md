@@ -1,4 +1,4 @@
-    ---
+---
 title: "Floating Table of Contents for Confluence"
 date: 2024-06-16
 ---
